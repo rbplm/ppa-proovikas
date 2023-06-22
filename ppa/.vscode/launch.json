@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PpaApplication<ppa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.proovikas.ppa.PpaApplication",
+            "projectName": "ppa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
